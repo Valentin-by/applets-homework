@@ -7,12 +7,6 @@
 <html>
     <head>
         <title>Book</title>
-<%--        <style>--%>
-<%--            body {background-image: url('/pictures/education_library.jpg');--%>
-<%--                background-size: cover;--%>
-<%--                /*height: 650px;*/--%>
-<%--            }--%>
-<%--        </style>--%>
     </head>
         <body>
             <%
